@@ -1,5 +1,5 @@
 var width = 12;
-var height = 'test';
+var height = 5;
 
 function calculateArea(width, height) {
   try {
